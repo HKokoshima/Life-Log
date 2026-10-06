@@ -1,0 +1,15 @@
+{
+"name": "Life Log",
+"short_name": "LifeLog",
+"display": "standalone",
+"start_url": "./",
+"background_color": "#ffffff",
+"theme_color": "#4a6cf7",
+"icons": [
+{
+"src": "icon.png",
+"sizes": "1024x1024",
+"type": "image/png"
+}
+]
+}
